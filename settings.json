@@ -1,0 +1,12 @@
+{
+  "editor.lineHeight": 25,
+  "editor.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.8,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}

@@ -1,0 +1,35 @@
+// 将键绑定放入此文件中以覆盖默认值
+[
+    {
+        "key": "cmd+h",
+        "command": "workbench.action.terminal.toggleTerminal"
+      },
+      {
+        "key": "ctrl-s",
+        "command": "workbench.action.gotoSymbol"
+      },
+      {
+        "key": "cmd+t",
+        "command": "workbench.action.terminal.new",
+        "when": "terminalFocus"
+      },
+      {
+        "key": "cmd+right",
+        "command": "workbench.action.terminal.focusNext",
+        "when": "terminalFocus"
+      },
+      {
+        "key": "cmd+left",
+        "command": "workbench.action.terminal.focusPrevious",
+        "when": "terminalFocus"
+      },
+      {
+        "key": "cmd+w",
+        "command": "workbench.action.terminal.kill",
+        "when": "terminalFocus"
+      },
+      {
+        "key": "alt+cmd+o",
+        "command": "extension.advancedNewFile"
+      },
+]
