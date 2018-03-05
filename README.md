@@ -1,4 +1,4 @@
-### vsCode 配置备份
+## vsCode 配置备份
 
 #### VScode 默认的扩展列表
 
